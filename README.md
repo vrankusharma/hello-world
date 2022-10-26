@@ -3,13 +3,6 @@
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 
-Yes this is a great repo
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
-
-sebtrsebtb
-**GitHub Pages** is a free and easy way to crdrtydrtydertyddrtydeate a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
-
-yes this is the PR 
 
 ## Rename this repository to publish your site
 
