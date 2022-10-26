@@ -30,7 +30,7 @@ Congratulations! You just launched your first GitHub Pages website. It's now liv
 ## Making your first edit
 This is so great man
 When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
+erterterte
 With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
 
 ## Practice: Customize your first GitHub website by writing HTML code
@@ -52,7 +52,7 @@ Delete this placeholder line:
 
 ```
 <p>Welcome to your first GitHub Pages website!</p>
-```
+```ertert
 
 Then, paste the template to line 15 and fill in the blanks.
 
